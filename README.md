@@ -37,3 +37,31 @@ Estoy construyendo proyectos prácticos relacionados con:
 ## 🎯 Objetivo
 
 Seguir desarrollando experiencia práctica en tecnología y crecer profesionalmente en las áreas de soporte TI, automatización y desarrollo backend.
+
+## 🚀 Proyectos destacados
+
+### 🎫 Help Desk Ticket System
+Sistema de gestión de tickets para soporte TI.
+
+**Tecnologías:** Node.js · Express · SQLite · Docker
+
+---
+
+### 🖥️ IT Asset Manager
+Sistema para gestionar computadores, periféricos y otros activos tecnológicos.
+
+**Tecnologías:** Python · SQLite
+
+---
+
+### 🐍 Support Automation
+Herramientas para automatizar tareas repetitivas de soporte y procesamiento de archivos.
+
+**Tecnologías:** Python · Excel · CSV
+
+---
+
+### 🌐 Inventory API
+API REST para gestionar activos tecnológicos.
+
+**Tecnologías:** Node.js · Express · REST API · Docker
